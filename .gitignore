@@ -1,0 +1,12 @@
+# Python bytecode files
+__pycache__/
+.pytest_cache
+
+# Python virtual environment
+venv/
+
+# Known faces data
+known_faces/
+
+.env
+component-tests/__pycache__
